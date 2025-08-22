@@ -16,11 +16,10 @@ A simple **AI-based Text Summarizer** built in Python that can generate concise 
 
 ## Technologies Used
 - **Python 3.8+**  
-- **NLTK / SpaCy** → for natural language processing  
+- **NLTK** → for natural language processing  
 - **Transformers (Hugging Face)** → for abstractive summarization  
-- **Sumy** → for extractive summarization  
-- **Tkinter / Streamlit (optional)** → for simple GUI/web interface  
-
+- **Sumy** → for extractive summarization
+  
 ---
 
 ## How It Works
